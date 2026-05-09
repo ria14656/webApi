@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ariat\\Desktop\\api\\apiweb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E668B2C1-2BA9-4C68-A332-261216ABC56D}|apiweb\\apiweb.csproj|c:\\users\\ariat\\desktop\\api\\apiweb\\apiweb\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E668B2C1-2BA9-4C68-A332-261216ABC56D}|apiweb\\apiweb.csproj|solutionrelative:apiweb\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E668B2C1-2BA9-4C68-A332-261216ABC56D}|apiweb\\apiweb.csproj|c:\\users\\ariat\\desktop\\api\\apiweb\\apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E668B2C1-2BA9-4C68-A332-261216ABC56D}|apiweb\\apiweb.csproj|solutionrelative:apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ariat\\Desktop\\api\\apiweb\\apiweb\\Dockerfile",
+              "RelativeDocumentMoniker": "apiweb\\Dockerfile",
+              "ToolTip": "C:\\Users\\ariat\\Desktop\\api\\apiweb\\apiweb\\Dockerfile",
+              "RelativeToolTip": "apiweb\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T22:00:27.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ariat\\Desktop\\api\\apiweb\\apiweb\\Program.cs",
               "RelativeDocumentMoniker": "apiweb\\Program.cs",
               "ToolTip": "C:\\Users\\ariat\\Desktop\\api\\apiweb\\apiweb\\Program.cs",
               "RelativeToolTip": "apiweb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T21:31:40.881Z",
               "EditorCaption": ""
